@@ -10,6 +10,4 @@ ENV PATH=${PATH}:${GOPATH}/bin
 # 设置工作路径
 WORKDIR /gopath
 
-#COPY /Users/zhangzhibin/Documents/mygit/gogit/pkg 
-
 VOLUME /gopath
